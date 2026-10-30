@@ -1,0 +1,67 @@
+[
+    {
+        "student_id": "TY05",
+        "name": "Ashay Patakare",
+        "class_div": "TY CSE A",
+        "marks": {
+            "SUB01": 93.0,
+            "SUB02": 91.0,
+            "SUB03": 89.0,
+            "SUB04": 93.0
+        },
+        "percentage": 91.5,
+        "grade": "A+"
+    },
+    {
+        "student_id": "TY06",
+        "name": "Ratnesh Chavan",
+        "class_div": "TY CSE A",
+        "marks": {
+            "SUB01": 80.0,
+            "SUB02": 73.0,
+            "SUB03": 82.0,
+            "SUB04": 86.0
+        },
+        "percentage": 80.25,
+        "grade": "A"
+    },
+    {
+        "student_id": "TY07",
+        "name": "Ritesh Patil",
+        "class_div": "TY CSE A",
+        "marks": {
+            "SUB01": 96.0,
+            "SUB02": 85.0,
+            "SUB03": 87.0,
+            "SUB04": 90.0
+        },
+        "percentage": 89.5,
+        "grade": "A"
+    },
+    {
+        "student_id": "TY08",
+        "name": "Siddhesh Madekar",
+        "class_div": "TY CSE A",
+        "marks": {
+            "SUB01": 90.0,
+            "SUB02": 91.0,
+            "SUB03": 93.0,
+            "SUB04": 90.0
+        },
+        "percentage": 91.0,
+        "grade": "A+"
+    },
+    {
+        "student_id": "TY09",
+        "name": "Prasad Patil",
+        "class_div": "TY CSE A",
+        "marks": {
+            "SUB01": 90.0,
+            "SUB02": 85.0,
+            "SUB03": 87.0,
+            "SUB04": 90.0
+        },
+        "percentage": 88.0,
+        "grade": "A"
+    }
+]
